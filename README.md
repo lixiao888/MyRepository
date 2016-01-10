@@ -1,13 +1,14 @@
-######我的一个引用
->这里是一个引用
+######这个一个测试项目
+>这是一个引用
 
-######我的广告链接
-[我的广告](http://www.xxx.com)
+######测试广告链接
+[我的测试广告](http://www.xxx.com)
 
 
 ######我是广告图片
-![oldboy](http://www.etiantian.org/static/assets/loao_small.png)
+![oldboy](http://www.xxx.com/xxx/xxx.png)
 
-	while true:
-       do echo hehe;
-    done
+	public static void main(String[] args)
+	{
+	     System.out.println("Hello World!");
+	}
