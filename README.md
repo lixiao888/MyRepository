@@ -6,7 +6,7 @@
 
 
 ######我是广告图片
-![oldboy](http://www.xxx.com/xxx/xxx.png)
+![测试链接](http://www.xxx.com/xxx/xxx.png)
 
 	public static void main(String[] args)
 	{
